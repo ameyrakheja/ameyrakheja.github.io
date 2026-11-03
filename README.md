@@ -1,6 +1,6 @@
 # Knife maker portfolio
 
-A single-page, responsive knife portfolio with an email link for commission inquiries. It uses plain HTML and CSS, with no installation, build process, JavaScript runtime, or database.
+A minimal knife portfolio: a name, one photograph, its caption, and an email link. It uses plain HTML and CSS, with no installation, build process, JavaScript runtime, or database.
 
 ## Preview locally
 
@@ -14,11 +14,11 @@ Open <http://127.0.0.1:4173>.
 
 ## Replace the placeholders
 
-1. In `index.html`, replace `Your Name`, the page title and description, the maker biography, and the sample knife descriptions.
+1. In `index.html`, replace `Your Name`, the page title and description, `Knife name`.
 2. Replace both occurrences of `hello@example.com`, including the address in the `mailto:` link. The link opens the visitor's email app; there is no contact-form backend.
-3. Replace `assets/sample-knife.webp` with real product photography. The initial gallery deliberately shows one illustrative knife in three crops, not three products. Update the image sources, alternative text, captions, and dimensions when replacing it.
-4. Update the `YN` initials in the header and `assets/favicon.svg`.
-5. Remove the top preview notice and sample-image labels once the actual content and contact details are in place.
+3. Replace `assets/sample-knife.webp` with a real product photograph. Update the image source, alternative text, caption, and dimensions when replacing it.
+4. Update the `YN` initials in `assets/favicon.svg`.
+5. Remove the AI-generated photo label once it has been replaced with real photography.
 
 The supplied image is AI-generated placeholder artwork. Do not describe it as the maker's actual work or inventory.
 
@@ -34,7 +34,7 @@ The supplied image is AI-generated placeholder artwork. Do not describe it as th
 
 | File | Purpose |
 | --- | --- |
-| `index.html` | Page content, navigation, and commission email link |
+| `index.html` | Name, photograph, caption, and inquiry email link |
 | `styles.css` | Layout, typography, colors, and responsive styles |
 | `assets/sample-knife.webp` | Clearly labeled sample image |
 | `assets/favicon.svg` | Placeholder brand initials |
