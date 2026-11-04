@@ -36,7 +36,7 @@ main:focus { outline: none; }
 .field-issue { background: #243c2f; color: #f2eedb; }
 .field-page { width: min(1400px, calc(100% - 80px)); margin: 0 auto; padding: 28px 0 42px; }
 .field-header { display: flex; align-items: center; gap: 20px; padding: 0 0 24px; border-bottom: 2px solid #dfdfbd; font: 14px/1.5 "Courier New", monospace; text-transform: uppercase; }
-.field-stamp { display: grid; place-items: center; width: 44px; height: 44px; border: 2px solid currentColor; font: bold 20px/1 Arial, sans-serif; }
+.field-stamp { display: grid; place-items: center; width: 44px; height: 44px; border: 2px solid currentColor; font: bold 15px/1 Arial, sans-serif; }
 .field-header a { margin-left: auto; }
 .field-grid { display: grid; grid-template-columns: 1.35fr 1fr; min-height: 610px; border-bottom: 2px solid #dfdfbd; }
 .field-photo { display: flex; flex-direction: column; justify-content: center; padding: 30px 30px 30px 0; border-right: 2px solid #dfdfbd; }

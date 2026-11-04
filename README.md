@@ -1,6 +1,6 @@
-# Knife portfolio — style demos
+# Dark Sky Forge — style demos
 
-Five static, local design directions for a knife-maker portfolio. Each uses the same placeholder name, contact address, lorem ipsum copy, and five illustrative knife product photographs, with a shared header for switching styles. No installation or build step is needed.
+Five static, local design directions for the Dark Sky Forge knife-maker portfolio. Each uses the confirmed Dark Sky Forge branding, a placeholder contact address, lorem ipsum copy, and five illustrative knife product photographs, with a shared header for switching styles. No installation or build step is needed.
 
 | Page | Direction |
 | --- | --- |
@@ -20,10 +20,10 @@ Open <http://127.0.0.1:4173/> and use the header to compare all five pages. Link
 
 ## Placeholder content
 
-- Replace `Your Name`, `Knife name`, and `hello@example.com` in each HTML page once the actual details are available. The email links currently use a reserved example address.
+- Preserve the confirmed Dark Sky Forge branding. Replace sample product names, lorem ipsum descriptions, and `hello@example.com` in each HTML page once the actual details are available. The email links currently use a reserved example address.
 - The `assets/sample-*.webp` images are AI-generated illustrative artwork, not the maker's real work. Keep the disclosure until it is replaced with real photography, then update the captions and image alt text.
 - `styles.css` contains the shared demo switcher and five separately scoped page styles.
-- `assets/favicon.svg` contains the placeholder initials.
+- `assets/favicon.svg` contains the Dark Sky Forge initials.
 
 ## Review and hosting
 
